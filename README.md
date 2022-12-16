@@ -1,6 +1,5 @@
 
-# MacinPosh theme
-***
+# MacinPosh Theme
 A colorfull full-featured theme for [Oh-My-Posh](https://ohmyposh.dev) prompt engine based on **Powerlevel10k** Style and Apple *Macintosh* logo color scheme
 
 ![screenshot](https://raw.githubusercontent.com/JoaoNevesSoares/MacinPosh-Theme/main/screenshot.png)
